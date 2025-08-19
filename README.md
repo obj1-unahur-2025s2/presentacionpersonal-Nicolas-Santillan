@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-Nicolas Alejandro Santillan
+### Nicolas Alejandro Santillan
 ## Presentación Personal
 Mi nombre es Nicolas Santillan, vivo en Moron Sur y tengo 22 años. Empece en la tenicatura en diseño industrial pero en el primer cuatrimestre tuve la oportunidad de cambiarme a la tecnicatura en inteligencia artificial hasta que en el primer cuatrimeste de esa materia decidi volver a cambiar hacia la tecnicatura en programacion.
 En 2023 empece a trabajar en una pyme que se dedica a instalaciones comerciales y hoy en dia sigo trabajando a la par del estudio en el mismo lugar para buscar un mejor futuro.
